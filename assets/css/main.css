@@ -2559,7 +2559,7 @@ section {
 --------------------------------------------------------------*/
 .footer {
   font-size: 14px;
-  background-color: var(--color-primary);
+  background-color: rgb(106, 115, 153);
   padding: 50px 0;
   color: white;
 }
