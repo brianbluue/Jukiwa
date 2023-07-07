@@ -1718,7 +1718,10 @@ section {
   border-radius: 10px 0 0 10px;
   box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.1);
 }
-
+.contact .info-item a {
+  color: #ffffff;
+  text-decoration: none;
+}
 
 .contact .info-item {
   width: 100%;
@@ -2560,7 +2563,7 @@ section {
 --------------------------------------------------------------*/
 .footer {
   font-size: 14px;
-  background-color: rgb(106, 115, 153);
+  background-color: #1a6666;
   padding: 50px 0;
   color: white;
 }
